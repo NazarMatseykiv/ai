@@ -1,0 +1,15 @@
+D:\Work\МСШІ\Lab2\Lab2\bin\Debug\net7.0\Lab2.exe
+D:\Work\МСШІ\Lab2\Lab2\bin\Debug\net7.0\Lab2.deps.json
+D:\Work\МСШІ\Lab2\Lab2\bin\Debug\net7.0\Lab2.runtimeconfig.json
+D:\Work\МСШІ\Lab2\Lab2\bin\Debug\net7.0\Lab2.dll
+D:\Work\МСШІ\Lab2\Lab2\bin\Debug\net7.0\Lab2.pdb
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\Lab2.csproj.AssemblyReference.cache
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\Lab2.AssemblyInfoInputs.cache
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\Lab2.AssemblyInfo.cs
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\Lab2.dll
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\refint\Lab2.dll
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\Lab2.pdb
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\Lab2.genruntimeconfig.cache
+D:\Work\МСШІ\Lab2\Lab2\obj\Debug\net7.0\ref\Lab2.dll
